@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: patient-service
+
+server:
+  port: 8080
+  servlet:
+    context-path: /api
+
+app:
+  service: "Patient Service"
+  version: 1
