@@ -20,7 +20,7 @@ public class PatientResponse {
 
     String gender;
 
-    Long phone;
+    String phone;
 
     String address;
 }

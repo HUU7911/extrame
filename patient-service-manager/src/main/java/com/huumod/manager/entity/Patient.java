@@ -31,8 +31,7 @@ public class Patient {
     String address;
 
     @Convert(converter = EncryptConvertor.class)
-    Long phone;
+    String phone;
 
-    @Convert(converter = EncryptConvertor.class)
     LocalDate dateOfBirth;
 }

@@ -18,7 +18,7 @@ public class PatientUpdateRequest {
 
     String gender;
 
-    Long phone;
+    String phone;
 
     String address;
 }

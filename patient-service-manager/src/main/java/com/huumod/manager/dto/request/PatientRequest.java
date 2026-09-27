@@ -16,11 +16,11 @@ public class PatientRequest {
 
     String fullName;
 
-    LocalDate dateOfBirth;
-
     String gender;
 
-    Long phone;
+    String phone;
 
     String address;
+
+    LocalDate dateOfBirth;
 }
