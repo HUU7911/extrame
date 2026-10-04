@@ -426,7 +426,7 @@ mvn -version
 ## Clone the project
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/HUU7911/extrame.git
 cd patient-service-manager
 ```
 
